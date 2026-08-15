@@ -91,3 +91,6 @@ For easiest local testing, disable email confirmation in Supabase Auth settings.
 ```bash
 npm run build
 ```
+<img width="1920" height="1080" alt="Screenshot 2026-08-15 211655" src="https://github.com/user-attachments/assets/cabe3991-81d3-4381-bdd9-ed2da4cfac56" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-15 211706" src="https://github.com/user-attachments/assets/7f3237e0-094b-4aa1-b0d5-86f19fcad03c" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-15 211721" src="https://github.com/user-attachments/assets/17cc7456-e6d3-437d-8c0c-e6d3df9b8172" />
